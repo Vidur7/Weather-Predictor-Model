@@ -3,7 +3,7 @@ In this project, we'll predict tomorrow's temperature using historical data. We'
 
 Project Steps
 
-Download weather data
-Clean and graph data
-Create a testing framework
-Improve model accuracy
+1. Download weather data
+2. Clean and graph data
+3. Create a testing framework
+4. Improve model accuracy
